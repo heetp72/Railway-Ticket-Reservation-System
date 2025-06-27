@@ -35,7 +35,7 @@ This is a **Railway Reservation System** built using **PHP** and **MySQL**, runn
 
 3. **Clone the Project**
    ```bash
-   git clone https://github.com/projectworldsofficial/Railway-Reservation-System-in-php.git
+   git clone https://github.com/projectworldsofficial/Railway-in-php.git
 4. Move Project to XAMPP Directory
    Copy the cloned folder to:
    C:\xampp\htdocs\
